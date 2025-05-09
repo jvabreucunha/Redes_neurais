@@ -1,0 +1,11 @@
+# Para manipulação de dados
+pandas>=1.0
+
+# Computação numérica
+numpy>=1.20
+
+# Gráficos e visualizações
+matplotlib>=3.0
+
+# Modelos de ML (Regressão Linear e Logística)
+scikit-learn>=1.0
